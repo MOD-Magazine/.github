@@ -1,5 +1,5 @@
 <p align="center">
-    <img width=180 src="./MOD! Logo Temporary.png" alt="Temporary MOD! Logo" />
+    <img width=180 src="https://github.com/MOD-Magazine/MOD-Magazine/blob/main/MOD!%20Logo%20Temporary.png?raw=true" alt="Temporary MOD! Logo" />
 </p>
 
 # <p align="center">MOD! Magazine</p>
