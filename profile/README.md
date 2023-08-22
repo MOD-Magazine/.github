@@ -1,16 +1,14 @@
 <p align="center">
-    <img width=180 src="https://github.com/MOD-Magazine/MOD-Magazine/blob/main/MOD!%20Logo%20Temporary.png?raw=true" alt="Temporary MOD! Logo" />
+    <img width="60%" src="https://raw.githubusercontent.com/MOD-Magazine/branding/main/logo-full.svg" alt="MOD! Magazine" />
 </p>
-
-# <p align="center">MOD! Magazine</p>
 
 **<p align="center">MOD!: The magazine about all things modded Minecraft!</p>**
 
 <p align="center">
-<a href="https://mod-magazine.github.io">
-    <img src="https://img.shields.io/badge/read-on%20our%20website-green" alt="Read: on our website" />
+<a href="https://modmagazine.net">
+    <img src="https://img.shields.io/badge/read-on%20our%20website-green" alt="Read on our website" />
 </a>
-<a href="https://mod-magazine.github.io/discord">
+<a href="https://https://modmagazine.net/discord">
     <img src="https://img.shields.io/discord/1076617537355251832" alt="Join us on Discord" />
 </a>
 </p>
@@ -21,14 +19,12 @@
   events, updates, and controversies.
 - **Interviews**: read about interesting projects first-hand from their
   developers.
-- **Available as both a print edition and blog posts**: whichever format you
-  prefer, you'll be able to read MOD!.
 
 ## Contributing
 
 There are a variety of ways to contribute! None of these roles have any
 commitment, but we'd prefer if you contacted us on
-[Discord](https://mod-magazine.github.io/discord) before making a pull request.
+[Discord](https://modmagazine.net/discord) before making a pull request.
 
 - **Writer**: writing and potentially reviewing articles.
 - **Editor**: gathering articles and reviewing them - a more formal role than
@@ -37,7 +33,7 @@ commitment, but we'd prefer if you contacted us on
 - **Developer**: contributing to our website.
 
 You can also suggest projects and articles on our
-[Discord](https://mod-magazine.github.io/discord), if you don't want to do any
+[Discord](https://modmagazine.net/discord), if you don't want to do any
 of the above roles but still want to get involved.
 
 If you wish to contribute, please reach out and see `CONTRIBUTING.md` in the main repository.
